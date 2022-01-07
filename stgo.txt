@@ -1,4 +1,4 @@
 algorithm 19
 population 6000
-tolerance 0.000001
-max_iters 1000000
+tolerance 0.0001
+max_iters 500000
