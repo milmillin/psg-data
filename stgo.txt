@@ -1,4 +1,5 @@
 algorithm 19
-population 6000
+population 10000
 tolerance 0.000001
-max_iters 1000000
+max_iters 400000
+trajectory_wiggle 5;5;5;45;25;90
