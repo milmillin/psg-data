@@ -4,3 +4,4 @@ tolerance 0.000001
 max_iters 300000
 trajectory_wiggle 5;5;5;45;25;90
 cost.floor 0
+neg_vol_res 0.001
