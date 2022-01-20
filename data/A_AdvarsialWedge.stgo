@@ -1,2 +1,3 @@
 contact.floor 0.001
 cost.floor 0.00075
+contact.max_angle 90
